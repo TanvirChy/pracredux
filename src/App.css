@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+.card {
+  display: flex;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-family: "Arial", sans-serif;
+  font-weight: 900;
+  width: 100px;
+  height: 100px;
+  background: cyan;
+  margin: 5px;
+}
